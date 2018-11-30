@@ -1,0 +1,13 @@
+{
+	"name": "Git Cheat Sheet",
+	"description": "Git Cheat sheet!",
+	"version": "0.1",
+	"icons": { "16": "h.png", "128": "h.png" },
+	"permissions": [ "storage" ],
+	"browser_action": {
+		"default_icon": "h.png",
+		"default_title": "Git Cheat Sheet",
+		"default_popup": "index.html"
+	},
+	"manifest_version": 2
+}
